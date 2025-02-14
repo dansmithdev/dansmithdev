@@ -11,8 +11,8 @@ With solid experience in frontend and backend, I specialize in crafting custom s
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Vue.js, React, jQuery
 - **Backend:** PHP, MySQL, Laravel, Prestashop, Node.js, Nuxt.js, Python, Django, Flask, Java, Spring Boot
 - **Other Tools:** Google Cloud, Mautic API, Three.js
-- **Design:** Figma, Photoshop, responsive web design principles
-- **Soft Skills:** Adaptability, creativity, critical analysis, teamwork, and tenacity
+- **Design:** Figma, Photoshop, Responsive web design principles
+- **Soft Skills:** Adaptability, Creativity, Critical analysis, Teamwork, and Tenacity
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,nodejs,npm,vue,nuxtjs,pinia,react,angular,nextjs,threejs,git,github,gitlab,python,java,php,mysql,laravel,mongodb,postgresql,figma,xd,ps,svg,wordpress,jquery,gcp,vscode)](https://skillicons.dev)
 
@@ -36,3 +36,5 @@ With solid experience in frontend and backend, I specialize in crafting custom s
 ## 📈 Let's Build Together!
 
 I'm passionate about creating innovative and effective solutions. Let's connect and make something amazing!
+
+[![Visitors](https://komarev.com/ghpvc/?username=dansmithdev&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=shafiqimtiaz)
