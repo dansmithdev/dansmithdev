@@ -14,7 +14,7 @@ With solid experience in frontend and backend, I specialize in crafting custom s
 - **Design:** Figma, Photoshop, responsive web design principles
 - **Soft Skills:** Adaptability, creativity, critical analysis, teamwork, and tenacity
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,nodejs,npm,vue,nuxtjs,pinia,react,angular,nextjs,threejs,git,github,gitlab,python,java,php,mysql,laravel,figma,xd,ps,svg,wordpress,jquery,gcp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,nodejs,npm,vue,nuxtjs,pinia,react,angular,nextjs,threejs,git,github,gitlab,python,java,php,mysql,laravel,mongodb,postgresql,figma,xd,ps,svg,wordpress,jquery,gcp,vscode)](https://skillicons.dev)
 
 <!--
 ---
