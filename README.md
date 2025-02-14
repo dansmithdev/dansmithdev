@@ -37,4 +37,4 @@ With solid experience in frontend and backend, I specialize in crafting custom s
 
 I'm passionate about creating innovative and effective solutions. Let's connect and make something amazing!
 
-[![Visitors](https://komarev.com/ghpvc/?username=dansmithdev&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=shafiqimtiaz)
+![Visitors](https://komarev.com/ghpvc/?username=dansmithdev&label=Visitors&color=0e75b6&style=flat)
