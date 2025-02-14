@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Dan Smith
 
-🎯 **Fullstack Web Developer**  
+## 🎯 **Fullstack Web Developer**  
+
 With solid experience in frontend and backend, I specialize in crafting custom solutions using **HTML**, **CSS**, **JavaScript**, **Python**, **Java** and **PHP**. My proactive and analytical approach ensures improved performance, usability, and user experience in every project.
 
 ---
