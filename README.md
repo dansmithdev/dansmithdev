@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dan Smith
+
+🎯 **Fullstack Web Developer**  
+With solid experience in frontend and backend, I specialize in crafting custom solutions using **HTML**, **CSS**, **JavaScript**, **Python**, **Java** and **PHP**. My proactive and analytical approach ensures improved performance, usability, and user experience in every project.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Vue.js, React, jQuery
+- **Backend:** PHP, MySQL, Laravel, Prestashop, Node.js, Nuxt.js, Python, Django, Flask, Java, Spring Boot
+- **Other Tools:** Google Cloud, Mautic API, Three.js
+- **Design:** Figma, Photoshop, responsive web design principles
+- **Soft Skills:** Adaptability, creativity, critical analysis, teamwork, and tenacity
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,nodejs,npm,vue,nuxtjs,pinia,react,angular,nextjs,threejs,git,github,gitlab,python,java,php,mysql,laravel,figma,xd,ps,svg,wordpress,jquery,astro,gcp,vscode)](https://skillicons.dev)
 
 <!--
-**dansmithdev/dansmithdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Links & Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **GitHub:** [github.com/AlanReibel](https://github.com/AlanReibel)  
+- **LinkedIn:** [linkedin.com/in/alan-reibel](https://www.linkedin.com/in/alan-reibel)  
+- **Portfolio Projects:**  
+  - [24 Segons](https://24segons.es)  
+  - [Anfora Global](https://anfora.global/perform)  
+  - [Nova Casa Editorial](https://novacasaeditorial.com)  
+  - [My Fujifilm](https://myfujifilm.es)  
+  - [BCN3D Technologies](http://www.bcn3dtechnologies.com)
 -->
+
+---
+
+## 📈 Let's Build Together!
+
+I'm passionate about creating innovative and effective solutions. Let's connect and make something amazing!
